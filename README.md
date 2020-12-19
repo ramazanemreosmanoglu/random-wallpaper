@@ -45,6 +45,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ramazan Emre Osmanoglu - ramazanemreosmanoglu@gmail.com
 
 Project Link: [https://github.com/ramazanemreosmanoglu/random-wallpaper/](https://github.com/ramazanemreosmanoglu/random-wallpaper/)
