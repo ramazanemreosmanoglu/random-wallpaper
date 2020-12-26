@@ -1,5 +1,3 @@
-## Getting Started
-
 This project is change dynamically desktop background on linux desktop environment
 
 ### Prerequisites
